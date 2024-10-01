@@ -1,4 +1,2 @@
-my_nil = nil
-
-puts my_nil
-puts my_nil.class
+puts nil
+puts nil.class

@@ -1,6 +1,8 @@
-require 'date'
+require 'date'  # Asegúrate de incluir esta línea
 
-my_date = Date.new(2024, 9, 30)
+# Definir la fecha como variable global
+$my_date = Date.new(2024, 9, 30)
 
-puts my_date
-puts my_date.class
+# Imprimir la fecha y su clase
+puts $my_date
+puts $my_date.class

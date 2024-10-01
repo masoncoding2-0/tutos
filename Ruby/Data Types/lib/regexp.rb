@@ -1,4 +1,6 @@
-my_regexp = /hello/
+# Definir la expresión regular
+$my_regexp = /hello/
 
-puts my_regexp
-puts my_regexp.class
+# Imprimir la expresión regular y su clase
+puts $my_regexp.inspect
+puts $my_regexp.class

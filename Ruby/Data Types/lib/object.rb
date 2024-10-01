@@ -1,4 +1,4 @@
-my_object = Object.new
+$my_object = Object.new
 
-puts my_object
-puts my_object.class
+puts $my_object
+puts $my_object.class
