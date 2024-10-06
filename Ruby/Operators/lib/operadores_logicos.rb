@@ -1,3 +1,15 @@
+def and_logico(a, b)
+  a && b
+end
+
+def or_logico(a, b)
+  a || b
+end
+
+def not_logico(a)
+  !a
+end
+
 condicion1 = true
 condicion2 = false
 

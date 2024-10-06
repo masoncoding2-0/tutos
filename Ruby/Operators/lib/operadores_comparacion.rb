@@ -1,10 +1,10 @@
 # Definir las variables y realizar las comparaciones
-igualdad = (5 == 5)
+igualdad = (5 == 6)
 desigualdad = (5 != 6)
 mayor_que = (6 > 5)
-menor_que = (5 < 6)
+menor_que = (5 < 5)
 mayor_o_igual = (6 >= 5)
-menor_o_igual = (5 <= 6)
+menor_o_igual = (5 <= 4)
 
 # Imprimir los resultados
 puts "igualdad = #{igualdad}"
